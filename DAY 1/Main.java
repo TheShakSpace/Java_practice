@@ -6,7 +6,7 @@ public class Main {  //class is an blueprint or template used to create objects,
         System.out.println("Second Argument:" +args[1]);
         System.out.println("3rd Argument:" +args[2]);
         System.out.println("4th Argument:" +args[3]);
-    
+    //day 1 practice
      
     }
 }
